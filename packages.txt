@@ -1,0 +1,8 @@
+git
+bind-utils
+jq
+wget
+tree
+autojump
+findutils
+fzf
