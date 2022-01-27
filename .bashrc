@@ -13,6 +13,9 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
 
+alias pbcopy='xclip -selection cliboard'
+alias pbpaste='xclip -selection clipboard -o'
+
 
 
 # Docker

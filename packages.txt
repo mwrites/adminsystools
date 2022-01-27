@@ -5,4 +5,4 @@ wget
 tree
 autojump
 findutils
-fzf
+xclip
